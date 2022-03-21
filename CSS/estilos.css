@@ -151,6 +151,12 @@ footer {
   height: 70px;
 }
 
+.navbar-toggler-icon {
+  width: 2.5em;
+  height: 2.5em;
+  font-weight: bolder;
+}
+
 .menu-mobile{
   font-size: 25px;
   font-family: FUENTE1;
